@@ -17,6 +17,5 @@ elif num1 == 8:
 else:
     print("You need to write an operator!")  
 
-print("finished ")
-print("please")
+
 
