@@ -15,4 +15,6 @@ elif num1 == 8:
     result = num1 / num2
     print(round(result, 3))
 else:
-    print("You need to write an operator!")
+    print("You need to write an operator!")  
+
+print("finished ")
