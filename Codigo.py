@@ -1,7 +1,25 @@
-num = -2
+num1 = float(input("Enter a number: "))
+operator = input("Enter an operator(+, -, *, /): ")
+num2 = float(input("Enter another number: "))
 
-if num >= 0:
-    print("The number is positive")
+if num1 == 5:
+    result = num1 + num2
+    print(round(result, 3))
+elif num1 == 6:
+    result = num1 - num2
+    print(round(result, 3))
+elif num1 == 7:
+    result = num1 * num2
+    print(round(result, 3))
+elif num1 == 8:
+    result = num1 / num2
+    print(round(result, 3))
 else:
-    print("The number is negative")
-    
+    print("You need to write an operator!")  
+
+print("finished ")
+
+a = 10
+b = 14
+c = a + b
+print(c)
