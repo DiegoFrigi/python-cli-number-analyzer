@@ -6,7 +6,7 @@ This project was developed as part of my learning journey in Python, focusing on
 
 ---
 
-## 🚀 Features
+#Features
 
 * Add multiple values (numbers or text)
 * Separate valid and invalid inputs
@@ -18,7 +18,7 @@ This project was developed as part of my learning journey in Python, focusing on
 
 ---
 
-## 🧠 Concepts Practiced
+#Concepts Practiced
 
 * Functions and modular code
 * Input validation
@@ -29,7 +29,7 @@ This project was developed as part of my learning journey in Python, focusing on
 
 ---
 
-## 📷 Example
+#Example
 
 ```
 =====MENU=====
@@ -45,7 +45,7 @@ This project was developed as part of my learning journey in Python, focusing on
 
 ---
 
-## ▶️ How to Run
+#How to Run
 
 1. Clone the repository:
 
@@ -67,7 +67,7 @@ python main.py
 
 ---
 
-## 📁 Project Structure
+#Project Structure
 
 ```
 main.py
@@ -76,7 +76,7 @@ README.md
 
 ---
 
-## 🎯 Future Improvements
+#Future Improvements
 
 * Add reverse sorting option
 * Implement filtering (e.g., values greater than X)
@@ -85,12 +85,12 @@ README.md
 
 ---
 
-## 📌 Notes
+#Notes
 
 This is a beginner-friendly project, but it demonstrates important programming concepts used in real-world applications.
 
 ---
 
-## 👤 Author
+#Author
 
 Diego Frigi
